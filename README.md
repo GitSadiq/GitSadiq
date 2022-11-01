@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitSadiq
+- 👋 Hi, I’m Sadiq Khan
 - 👀 I’m interested in Web and App Deveoplement 
 - 🌱 I’m currently learning React, ReactNative, NodeJS
 - 💞️ I’m looking to collaborate as an intern to upgrading my skills and knowledge.
